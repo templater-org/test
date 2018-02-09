@@ -12,6 +12,9 @@
 "files": [
 {
 "a/b/c.txt": "c.tmpl"
+},
+  {
+"a/b/d.txt": "c.tmpl"
 }
 ]
 }
