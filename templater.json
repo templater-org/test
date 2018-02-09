@@ -1,0 +1,17 @@
+{
+"parameters": [
+{
+"name": "a",
+"type": "string"
+},
+{
+"name": "test2",
+"type": "boolean"
+}
+],
+"files": [
+{
+"a/b/c.txt": "c.tmpl"
+}
+]
+}
